@@ -1,9 +1,9 @@
 # CrossRegionLoadBalancingUmbracoCloud
 Related to the "Umbraco Cross-region Load Balancing with Docker &amp; Umbraco Cloud" article.
 
-# Community Maintained Umbraco Load Balancing Configurations
+# Community Maintained Umbraco Cloud Load Balancing Cross Region Configuration
 
-This repository serves as a central, community-maintained hub for sharing and updating recommended load balancing configurations for Umbraco CMS, or anything related to the article.
+This repository serves as a central, community-maintained hub for sharing and updating recommended load balancing configurations for Umbraco CMS, and/or anything related to the article.
 
 As Umbraco evolves, so do its best practices and configuration patterns. This project exists to help developers keep up with these changes and share what works in production across different Umbraco versions.
 
