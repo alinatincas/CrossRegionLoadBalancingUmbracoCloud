@@ -1,5 +1,5 @@
 # CrossRegionLoadBalancingUmbracoCloud
-Related to the "Umbraco Cross-region Load Balancing with Docker &amp; Umbraco Cloud" article.
+Related to the "[Umbraco Cross-region Load Balancing with Docker &amp; Umbraco Cloud](https://skrift.io/issues/cross-region-load-balancing-with-docker-umbraco-cloud/)" article.
 
 # Community Maintained Umbraco Cloud Load Balancing Cross Region Configuration
 
